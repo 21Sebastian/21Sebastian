@@ -29,7 +29,8 @@
   <p>Estas son las herramientas que uso para mis aventuras en el mundo digital:</p>
   <p>
     <!-- Insignias de Lenguajes de Programación -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black
+)">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     
     <!-- Insignias de Cloud -->
