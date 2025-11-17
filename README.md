@@ -1,6 +1,7 @@
 <!-- Encabezado: ¡Tu tarjeta de presentación! -->
 <p align="center"><img src="animation.gif" width="35%"></p>
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2000&color=%A1FF2FFF&size=40&height=50&width=500&lines=HOLA!+Me+Llamo+Sebas;Bienvenido+a+mi+perfil+!;IA;CLOUD;DATA;INGENIERIA;EXPLORA+!"> </h1>
+<img src="https://img.shields.io/badge/HALO-507d2a?style=for-the-badge&logo=xbox&logoColor=white" alt="Inspirado en Halo">
 </p>
 
 
