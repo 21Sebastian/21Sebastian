@@ -1,7 +1,7 @@
 <!-- Encabezado: ¡Tu tarjeta de presentación! -->
 <p align="center"><img src="animation.gif" width="35%"></p>
 <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2500&color=%778450FF&size=40&height=40&width=600&lines=Bienvenido+a+mi+perfil!;IA+CLOUD+DATA+INGENIERIA;EXPLORA+!"> <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> </h2>
-<h1 align="center"> Soy Sebastian 👋</h1>
+<h1 align="center"> ⭐️ Soy Sebastian ⭐️ </h1>
 </p>
 
 <div align="center">
