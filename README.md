@@ -1,7 +1,7 @@
 <!-- Encabezado: ¡Tu tarjeta de presentación! -->
 <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=200&section=header&text=Sebastian%20Nuñez%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2500&color=%778450FF&size=40&height=40&width=600&lines=Bienvenido+a+mi+perfil!;IA+CLOUD+DATA+INGENIERIA;EXPLORA+!"> <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> </h2>
+<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2500&color=%778450FF&size=40&height=40&width=600&lines=Bienvenido+a+mi+perfil!;IA+CLOUD+DATA+INGENIERIA;EXPLORA+!"> </h2>
 <h1 align="center"> Soy Sebastian <a href="https://github.com/Bouaskaoun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a> </h1>
