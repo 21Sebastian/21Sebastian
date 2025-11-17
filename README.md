@@ -4,7 +4,6 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2500&color=%778450FF&size=40&height=50&width=500&lines=Bienvenido+a+mi+perfil+!;IA;CLOUD;DATA;INGENIERIA;EXPLORA+!"> <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> </h1>
 </p>
 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustración de una persona trabajando en una computadora" width="600">
   <h1>¡Hola! Soy [Tu Nombre] 👋</h1>
