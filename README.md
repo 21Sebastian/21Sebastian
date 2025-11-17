@@ -2,7 +2,6 @@
 <h1> <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=110&section=header&text=Sebastian%20Nuñez%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/> </h1>
 <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&center=true&vCenter=true&duration=2500&color=%fefefeFF&size=30&height=40&width=600&lines=Bienvenido+a+mi+perfil!;IA+CLOUD+DATA+INGENIERIA;EXPLORA+!"> </h2>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 </p>
 
 <div align="center">
