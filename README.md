@@ -2,7 +2,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<h1> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2000&color=%00FF7F&size=40&height=50&width=500&lines=HOLA!+Me+Llamo+Sebas;Bienvenido+a+mi+perfil+!;IA;CLOUD;DATA;INGENIERIA;EXPLORA+!"> </h1>
+<h1> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2000&color=%ADFF2FFF&size=40&height=50&width=500&lines=HOLA!+Me+Llamo+Sebas;Bienvenido+a+mi+perfil+!;IA;CLOUD;DATA;INGENIERIA;EXPLORA+!"> </h1>
 </p>
 
 
