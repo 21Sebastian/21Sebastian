@@ -2,13 +2,9 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2000&color=%2338C2FF&size=30&height=100&width=500&lines=HOLA!+Me+Llamo+Sebas;Bienvenido+a+mi+perfil+!;IA;CLOUD;DATA;INGENIERIA;EXPLORA+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=2000&color=%2338C2FF&size=20&height=100&width=400&lines=HOLA!+Me+Llamo+Sebas;Bienvenido+a+mi+perfil+!;IA;CLOUD;DATA;INGENIERIA;EXPLORA+!">
 </p>
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-  
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustración de una persona trabajando en una computadora" width="600">
   <h1>¡Hola! Soy [Tu Nombre] 👋</h1>
